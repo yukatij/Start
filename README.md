@@ -1,4 +1,4 @@
 # Start
 Hello everyone !
 
-Welcome to my project for school !
+Welcome to my personal project !
